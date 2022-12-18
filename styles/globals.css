@@ -105,3 +105,13 @@ a {
     color-scheme: dark;
   }
 }
+
+.maxOut {
+  width: 100vw;
+  height: 100vh;
+  /* background-color: #2b2b2b; */
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
