@@ -22,7 +22,10 @@ export default function WidgetRenderer() {
 
   useEffect(() => {
     window.onmessage = function (e) {
-      console.log(`Parent window received message:`, JSON.stringify(e));
+      console.log(`Parent window received message:`, JSON.stringify(e.data));
+      if (e.data?.action === 'link' && typeof e.data?.target === 'string') {
+        window.open(e.data.target);
+      }
     };
   }, []);
 
