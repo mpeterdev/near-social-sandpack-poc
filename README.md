@@ -1,5 +1,7 @@
 # Near Social - Sandpacked
 
+Live: [near-social-sandpacked.vercel.app](https://near-social-sandpacked.vercel.app/)
+
 POC of using [Sandpack](https://sandpack.codesandbox.io/docs/), the online bundler used and maintained by [CodeSandbox](https://codesandbox.io/), for the NEAR Social Viewer
 
 ## Why
