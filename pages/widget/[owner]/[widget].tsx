@@ -102,7 +102,7 @@ export default function WidgetRenderer() {
           {socialWidgets ? (
             <CustomSandpack socialWidgets={socialWidgets} />
           ) : (
-            <div>Parsing...</div>
+            <div className="text-lg p-4">Loading...</div>
           )}
         </div>
       </main>
