@@ -1,6 +1,6 @@
 # Near Social - Sandpacked
 
-POC of using [Sandpack](https://sandpack.codesandbox.io/) from CodeSandbox.io for the Near Social Viewer
+POC of using [Sandpack](https://sandpack.codesandbox.io/docs/) from CodeSandbox.io for the Near Social Viewer
 
 ## Benefits
 
