@@ -55,7 +55,7 @@ Sandpack is built to compile and run modern React in the browser with support fo
   return <PokeActivity />;
   ```
 
-- actions not available in iFrame would be handled by sending messages back to Viewer code  
+- actions not available in iFrame would be handled by sending messages back to Viewer code, but this could be abstracted away by a library  
   e.g. opening a link in current tab
   ```ts
   // Widget code
