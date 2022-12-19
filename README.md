@@ -6,7 +6,7 @@ POC of using [Sandpack](https://sandpack.codesandbox.io/docs/), the online bundl
 
 ## Why
 
-Sandpack is built to compile and run modern React in the browser with support for TypeScript, hooks, etc. Using Sandpack in place of the custom built VM could improve widget DevX while simultaneously lightening the maintenance and development workload of the Viewer project.
+Sandpack is built to compile and run modern React in the browser with support for TypeScript, hooks, async/await, etc. Using Sandpack in place of the custom built VM could improve widget DevX while simultaneously lightening the maintenance and development workload of the Viewer project.
 
 ## How it works
 
