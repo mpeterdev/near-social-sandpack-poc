@@ -35,6 +35,7 @@ Sandpack is built to compile and run modern React in the browser with support fo
 
 - monaco is not the default editor but it [can be added](https://sandpack.codesandbox.io/docs/guides/integrate-monaco-editor)
 - Viewer app can receive messages from Sandpack iFrame to execute tasks not capable within iFrame (i.e. NEAR Wallet Selector interactions)
+- all imported widget tabs are shown in editor for demonstration, but they can be individually hidden
 
 # What would this change
 
